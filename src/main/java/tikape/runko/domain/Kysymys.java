@@ -5,10 +5,6 @@
  */
 package tikape.runko.domain;
 
-/**
- *
- * @author Samuli
- */
 public class Kysymys {
 
     private Integer id;
