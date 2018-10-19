@@ -11,12 +11,6 @@ import tikape.runko.database.VastausDao;
 import tikape.runko.domain.Kysymys;
 import tikape.runko.domain.Vastaus;
 
-/**
- *
- * @author Samuli
- */
-
-
 public class Main {
 
     /**
